@@ -1,6 +1,11 @@
 # remote-student-guide
 Guidelines, Accessibility concerns,  references on accessibility and best practices
 
+# Lecture Slides
+
+# Lecture Notes
+
+* Reading material for homework's should avoid scanned images of text. These can be difficult to read and cannot be read by screen readers.
 
 # Ideas/Notes
 
