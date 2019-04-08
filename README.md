@@ -7,6 +7,9 @@ Guidelines, Accessibility concerns,  references on accessibility and best practi
 
 * Reading material for homework's should avoid scanned images of text. These can be difficult to read and cannot be read by screen readers.
 
+* Question: Course material, homeworks and notes make heavy use of Dropbox Paper. I'm unsure if this has been resolved but there have been complaints of Dropbox Paper not working with well with screen readers (https://www.dropboxforum.com/t5/Paper-Ideas/Please-make-Dropbox-Paper-screen-reader-accessible/idi-p/185653/page/4#comments). 
+
+
 ## Ideas/Notes
 
 * Sharing physical spaces virtually. Provide a small tour of the SFCP space. It’s a nice way to feel more connected to the course and share some of the experiences of the other students.
