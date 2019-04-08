@@ -1,13 +1,13 @@
-# remote-student-guide
+# Remote Student Guide
 Guidelines, Accessibility concerns,  references on accessibility and best practices
 
-# Lecture Slides
+## Lecture Slides
 
-# Lecture Notes
+## Lecture Notes
 
 * Reading material for homework's should avoid scanned images of text. These can be difficult to read and cannot be read by screen readers.
 
-# Ideas/Notes
+## Ideas/Notes
 
 * Sharing physical spaces virtually. Provide a small tour of the SFCP space. It’s a nice way to feel more connected to the course and share some of the experiences of the other students.
 
@@ -21,3 +21,8 @@ Guidelines, Accessibility concerns,  references on accessibility and best practi
 * Being aware of the feeling of being behind. If you are following along remotely its often the case you are behind other class mates, which in turn can make it feel quite pressured in catching up while still trying to make sure you get your homework done. *This needs more thought*
 
 * Post homework in the relevant Slack channel so other students, TA, teachers can see your work and give feedback.
+
+
+## Access Links
+* WebAIM (web accessiblity in mind). https://webaim.org/projects/
+* https://webaim.org/projects/screenreadersurvey7/ (Screenreader usage survey)
