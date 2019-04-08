@@ -10,7 +10,8 @@ Guidelines, Accessibility concerns,  references on accessibility and best practi
 Examples of readings that have not been text accessible:
 * https://github.com/0ld-h3ad/DarkMatters-Spring2019/blob/master/SiliconValley_2_EarlyHistory.pdf
 
-* Question: Course material, homeworks and notes make heavy use of Dropbox Paper. I'm unsure if this has been resolved but there have been complaints of Dropbox Paper not working with well with screen readers (https://www.dropboxforum.com/t5/Paper-Ideas/Please-make-Dropbox-Paper-screen-reader-accessible/idi-p/185653/page/4#comments). 
+
+* Dropbox Paper and screen readers /  Question. Course material, homeworks and notes make heavy use of Dropbox Paper. I'm unsure if this has been resolved but there have been complaints of Dropbox Paper not working with well with screen readers (https://www.dropboxforum.com/t5/Paper-Ideas/Please-make-Dropbox-Paper-screen-reader-accessible/idi-p/185653/page/4#comments). 
 
 
 ## Ideas/Notes
