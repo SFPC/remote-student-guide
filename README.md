@@ -29,6 +29,19 @@ Examples of readings that have not been text accessible:
 
 * Post homework in the relevant Slack channel so other students, TA, teachers can see your work and give feedback.
 
+## Showcase
+
+The showcase is one of the harder aspects of being remote. Doing an installation completely remotely limits how complex your installation can be and relies a lot on the help of others. Its natural this is going to be frustating. My personal advice would be to take this and try and express it and make it a part of your work. 
+
+Some tips:
+
+* Find a TA who is willing to be your proxy for the showcase setup.
+* Ensure as quickly as possible that you have remote access to your installation. VNC or something similar means you can transfer code, projects and anything else onto the machine.
+* Setup a webcam giving a live stream of your exhibition. This enables to monitor your piece and check that everything is working as expected.
+* There is a lot of value in the conversations you will have with people viewing your work. I used a tablet with a live chat running as part of my piece. This allowed me to talk about my walk and see people interact with it. 
+
+
+
 
 ## Access Links
 * WebAIM (web accessiblity in mind). https://webaim.org/projects/
